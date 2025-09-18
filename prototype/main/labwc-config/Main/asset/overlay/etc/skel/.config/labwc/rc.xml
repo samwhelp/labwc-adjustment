@@ -191,10 +191,10 @@ default values.
 			<action name="Execute" command="lxterminal" />
 		</keybind>
 		<keybind key="A-S-f">
-			<action name="Execute" command="pcmanfm-qt" />
+			<action name="Execute" command="thunar" />
 		</keybind>
 		<keybind key="A-S-g">
-			<action name="Execute" command="thunar" />
+			<action name="Execute" command="pcmanfm" />
 		</keybind>
 		<keybind key="A-S-b">
 			<action name="Execute" command="firefox --new-tab about:blank" />
