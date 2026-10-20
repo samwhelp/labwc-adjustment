@@ -26,7 +26,7 @@
 
 | Script |
 | ------ |
-| [Labwc Config](https://github.com/samwhelp/labwc-adjustment/tree/main/prototype/main/labwc-config/Main) |
+| [Labwc Config](https://github.com/samwhelp/labwc-adjustment/tree/main/prototype/main/labwc-config/full/Main) |
 
 
 
