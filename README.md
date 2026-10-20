@@ -5,6 +5,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Labwc Adjustment](https://samwhelp.github.io/labwc-adjustment/) | [GitHub](https://github.com/samwhelp/labwc-adjustment) |
+| [Labwc Note](https://samwhelp.github.io/note-about-labwc/) | [GitHub](https://github.com/samwhelp/note-about-labwc) |
 
 
 
